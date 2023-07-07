@@ -1,6 +1,4 @@
-//
-//  rubiks_cube_solver header file
-//
+
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 #define RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
@@ -184,4 +182,4 @@ public:
 };
 
 
-#endif //RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
+#endif
