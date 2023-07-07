@@ -1,0 +1,3 @@
+C:/Users/DELL/CLionProjects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/Rubik_s_Cube_Solver.dir
+C:/Users/DELL/CLionProjects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
