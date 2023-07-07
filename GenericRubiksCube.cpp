@@ -1,6 +1,6 @@
 
 
-#include "RubiksCube.h"
+#include "GenericRubiksCube.h"
 
 class RubiksCube3dArray : public RubiksCube {
 private:
